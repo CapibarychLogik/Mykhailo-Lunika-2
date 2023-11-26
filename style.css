@@ -1,1 +1,22 @@
+main img{
+width: 600px;
+height: 300px;
+}
 
+main h1{
+ text-align: center;
+}
+
+header img{
+    width: 700px;
+    height: 600px;
+    
+}
+
+main {
+    background-color:saddlebrown;
+}
+
+footer {
+    background-color: green;
+}
